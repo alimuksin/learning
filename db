@@ -1,0 +1,1 @@
+INSERT INTO `siswa` (`idSiswa`, `nis`, `password`, `namaLengkap`, `jk`, `email`, `telp`, `kelasId`, `foto`, `isActive`, `created_at`, `updated_at`, `updated_by`) VALUES (NULL, '123', '123', 'abc123', 'L', 'a@mail.com', '0892922', '1', 'siswa.png', '1', current_timestamp(), NULL, NULL);
