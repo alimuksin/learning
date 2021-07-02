@@ -16,7 +16,7 @@ $(document).ready(function() {
          <div class="card-header">
             <h4 class="card-title">Data Kelas
                 <div class="float-right">
-                    <a href="<?php echo base_url('admin/mapel') ;?>" class="tambah btn btn-primary" ><i class="fa fa-refresh"></i></a>
+                    <a href="<?php echo base_url('admin/kelas') ;?>" class="tambah btn btn-primary" ><i class="fa fa-refresh"></i></a>
                     <!-- <button type="button" class="tambah btn btn-primary" data-toggle="modal" data-target="#myModal"><i class="fa fa-plus"></i></button> -->
                 </div>
             </h4>
